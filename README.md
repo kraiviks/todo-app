@@ -1,6 +1,6 @@
 # TodoApp
 
-<>
+<https://kraiviks.github.io/todo-app/>
 
 ## To install
 
