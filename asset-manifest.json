@@ -3,8 +3,8 @@
     "static/js/0.a297f427.chunk.js": "/todo-app/static/js/0.a297f427.chunk.js",
     "static/js/0.a297f427.chunk.js.map": "/todo-app/static/js/0.a297f427.chunk.js.map",
     "main.css": "/todo-app/static/css/main.c35a00da.chunk.css",
-    "main.js": "/todo-app/static/js/main.b8946db5.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.b8946db5.chunk.js.map",
+    "main.js": "/todo-app/static/js/main.2ecabdf1.chunk.js",
+    "main.js.map": "/todo-app/static/js/main.2ecabdf1.chunk.js.map",
     "runtime-main.js": "/todo-app/static/js/runtime-main.cb25fc5e.js",
     "runtime-main.js.map": "/todo-app/static/js/runtime-main.cb25fc5e.js.map",
     "static/css/3.48178f93.chunk.css": "/todo-app/static/css/3.48178f93.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/3.48178f93.chunk.css",
     "static/js/3.19f2221a.chunk.js",
     "static/css/main.c35a00da.chunk.css",
-    "static/js/main.b8946db5.chunk.js"
+    "static/js/main.2ecabdf1.chunk.js"
   ]
 }
